@@ -30,7 +30,7 @@ current version as pwa available | extending app to use persistent storage brows
 
 
 ### Refruitees Welcome
-unity3d game for android/mobile, in which you need to defend your marketplace border, stopping "bad fruits" and letting "good fruits" pass 🍊|🍐🥑
+unity3d game for android/mobile - in which you 🍊 need to defend your marketplace border by stopping "bad fruits" 🥑 from passing and letting "good fruits" 🍐 through
 
 unity3d, REST database, crash/analytics
 
