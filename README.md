@@ -28,7 +28,8 @@ current version as SPA available | reworking interaction concept | development o
 
 ### read-it-later pwa (ril)
 
-pwa for storing websites and online articles to read later 📓
+pwa for storing websites and online articles to read later 📓\
+uses web share API to share websites/links from android share menu to progressive webapp
 
 ![read-it-later screenshots](assets/read-it-later.png)
 
