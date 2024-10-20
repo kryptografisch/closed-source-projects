@@ -14,7 +14,7 @@ service deployed and running | web platform development in progress
 
 [sportsdatabot.eu](https://sportsdatabot.eu)
 
-### checkout-trainer
+### Checkout Trainer
 
 web app for improving mental arithmetics for darts players 🎯
 
