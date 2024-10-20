@@ -32,7 +32,7 @@ pwa for storing websites and online articles to read later 📓
 
 ![read-it-later screenshots](assets/read-it-later.png)
 
-plain html/css/js, pwa
+plain html/css/js, native browser APIs (clipboard API, web share API), progressive webapp
 
 current version as pwa available | extending app to use persistent storage browser API planned | cloud sync features planned
 
