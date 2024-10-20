@@ -26,7 +26,7 @@ current version as SPA available | reworking interaction concept | development o
 
 [checkout-trainer @ heroku](http://checkout-trainer.herokuapp.com)
 
-### read-it-later pwa
+### read-it-later pwa (ril)
 
 pwa for storing websites and online articles to read later 📓
 
@@ -36,7 +36,7 @@ plain html/css/js, pwa
 
 current version as pwa available | extending app to use persistent storage browser API planned | cloud sync features planned
 
-[ril @ web](https://ril.kryptografische.biz)
+[read-it-later @ web](https://ril.kryptografische.biz)
 
 ### Refruitees Welcome
 
